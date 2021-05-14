@@ -51,7 +51,7 @@ def main():
                 utime.sleep_ms(300000)
                 fan.off()
                 blue.off()
-                green.on
+                green.on()
             
 if __name__ == '__main__':
     main()
